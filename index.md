@@ -6,7 +6,11 @@
 ###### This is a sixth and last Level header
 
 
+## This is also to test how to include images to a file using markdown
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
-Updated inndex.md with different level headers using markdown
+
+
