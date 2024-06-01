@@ -38,3 +38,8 @@ looks like this
 var myVar = "Hello, world!";
 ```
 
+##This is also to practice making task lists
+
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
